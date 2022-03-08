@@ -1,6 +1,5 @@
-#WILLIAM KESSLER SURYANTO
-#PBO VII
-#5210411215
+#BAROTO SAMADYO
+#5210411220
 
 class Menu :
     def __init__(self, nama, deskripsi, harga, menu_pelengkap, harga_tambahan) :
